@@ -1,7 +1,7 @@
 USTH DS - Machine Learning in Medicine 2025
 ===============================================
 
-- Student name: *your name here*
-- Student ID: *your ID here*
+- Student name: Nguyen Quang Huy
+- Student ID: 22BI13195
 
 
